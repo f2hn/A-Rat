@@ -35,14 +35,14 @@ def help():
        start listener : Start Your Conection Server 
 
   Please Report This bug To My FB
-  FB : https://m.facebook.com/sefina.dewi
+  FB : https://m.facebook.com/f2han
   FP : https://m.facebook.com/androsec1337cyberteam\n""")
        
 def main():
     global host, port, output
 
     while True:
-        cmd = raw_input("[*] A-Rat@AndroSec1337:~# ").lower()
+        cmd = raw_input("[*] A-Rat@f2hn44:~# ").lower()
 
         if cmd == "help":
             help()
