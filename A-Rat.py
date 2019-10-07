@@ -21,8 +21,8 @@ def logo():
 \t |$   $|      |$   $\ |$   $|    $|
 
 \t [*] Versions : 1.0.0
-\t [*] Coded By ./Xi4u7
-\t [*] AndroSec1337 Cyber Team
+\t [*] Coded By .f2hn
+\t [*] MCA
   """)
 
 def help():
